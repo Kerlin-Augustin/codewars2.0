@@ -15,6 +15,9 @@ function solution(str){
       // add two letters at a time to the array
       // when you get to the last letter add _
     // return array
+
+    // time complexity: o(n)
+    // space complexity: o(1)
     
     let arr = []
     if(str.length % 2 === 0){
