@@ -6,6 +6,9 @@ function well(x){
       if(val === 'good'){
         count++
       }
+      if(count > 2){
+        break
+      }
     }
     if(count === 0){
       return 'Fail!'
