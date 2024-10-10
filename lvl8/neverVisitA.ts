@@ -1,6 +1,5 @@
 // https://www.codewars.com/kata/56c5847f27be2c3db20009c3/solutions/typescript
 
-
 export function subtractSum(n: number): string {
   // given: numnber
   // return: string
