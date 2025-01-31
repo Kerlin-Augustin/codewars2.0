@@ -1,5 +1,7 @@
 // https://www.codewars.com/kata/5434283682b0fdb0420000e6/train/javascript
 
+
+
 function caffeineBuzz(n){
   // PREP, EDGE CASE, COMPLEXITY
   // given: number
